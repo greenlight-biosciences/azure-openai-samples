@@ -1,0 +1,4 @@
+
+conda create --name aoi-test python=3.10
+conda activate aoi-test  
+pip install -r requirements.txt --upgrade
